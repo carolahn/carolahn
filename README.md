@@ -7,7 +7,7 @@
 
 ---
 
-Bem-vindo! 👋 Meu nome É Carol, sou programadora, estudo na [Kenzie](https://kenzie.com.br/) e este é o meu repositório de projetos.
+Bem-vindo! 👋 Meu nome é Carol, sou programadora, estudo na [Kenzie](https://kenzie.com.br/) e este é o meu repositório de projetos.
 
 <details>
 <summary> Saiba mais sobre mim <i>(Clique aqui para expandir)</i> </summary>
