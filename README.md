@@ -16,7 +16,7 @@ Este é o meu repositório de projetos.
 
 ### 📖 Sobre mim
 
-Sou engenheira eletricista (UFSC - 2013), trabalhei na área de eficiência energética para a indústria e, atualmente, atuo na área de programação.
+Sou engenheira eletricista (UFSC - 2013), trabalhei na área de eficiência energética para a indústria e, após 3 anos, resolvi mudar de área.
 
 Realizei o curso de desenvolvimento fullstack na [Kenzie](https://kenzie.com.br/), concluído em abril de 2021.
 Trabalhei como desenvolvedora front-end na [Esparta](https://esparta.io/) até julho de 2021, quando tomei posse como Técnico Judiciário - Administrativo na JFPR.
