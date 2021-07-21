@@ -7,7 +7,9 @@
 
 ---
 
-Bem-vindo! 👋 Meu nome é Carol, sou programadora, estudo na [Kenzie](https://kenzie.com.br/) e este é o meu repositório de projetos.
+Bem-vindo! 👋 Meu nome é Carol, sou programadora, concluí o curso da [Kenzie](https://kenzie.com.br/) em abril de 2021 e, desde então, trabalho com programação.
+
+Este é o meu repositório de projetos.
 
 <details>
 <summary> Saiba mais sobre mim <i>(Clique aqui para expandir)</i> </summary>
@@ -16,9 +18,10 @@ Bem-vindo! 👋 Meu nome é Carol, sou programadora, estudo na [Kenzie](https://
 
 Sou engenheira eletricista (UFSC - 2013), trabalhei na área de eficiência energética para a indústria e, atualmente, atuo na área de programação.
 
-Estou realizando um curso de desenvolvimento fullstack na [Kenzie](https://kenzie.com.br/), que será concluído em abril de 2021.
+Realizei o curso de desenvolvimento fullstack na [Kenzie](https://kenzie.com.br/), concluído em abril de 2021.
+Trabalhei como desenvolvedora front-end na [Esparta](https://esparta.io/) até julho de 2021, quando tomei posse como Técnico Judiciário - Administrativo na JFPR.
 
-Pretendo me aprofundar em desenvolvimento web e na área de ciência de dados.
+Atualmente atuo na área de TI e continuo me aprofundando em React.
 
 Como hobbies, gosto de ler, assistir a seriados, cozinhar e treinar :muscle: .
 
@@ -39,10 +42,13 @@ Como hobbies, gosto de ler, assistir a seriados, cozinhar e treinar :muscle: .
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Jinja](https://img.shields.io/badge/-Jinja-B41717?style=flat-square&logo=jinja&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F54D27?style=flat-square&logo=git&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336790?style=flat-square&logo=PostgreSQL&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
 ### 💻 Estudando atualmente
-
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336790?style=flat-square&logo=PostgreSQL&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Wordpress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
 ### 👀 Estou interessada em
 
